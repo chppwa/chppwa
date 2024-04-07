@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chppwa
-- 👀 I’m interested in ... collecting records, trying new beers, and operations
-- 🌱 I’m currently learning ... linux, project management, and CLI 
+- 👀 I’m interested in ... collecting records, trying new beers, and increasing my knowledge of IT.
+- 🌱 I’m currently learning ... linux, project management, and CLI
 - 💞️ I’m looking to collaborate on ... remote administration 
 - 📫 How to reach me ... discord @chppwa
 
